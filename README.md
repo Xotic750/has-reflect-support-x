@@ -23,7 +23,7 @@ alt="devDependency status" height="18"/>
 alt="npm version" height="18">
 </a>
 
-Tests if `reflect` exists.
+Tests if `Reflect` exists.
 
 Requires ES3 or above.
 
