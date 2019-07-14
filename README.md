@@ -21,16 +21,14 @@
 <a name="module_has-reflect-support-x"></a>
 
 ## has-reflect-support-x
+
 Tests if ES6 Reflect is supported.
 
-**Version**: 1.1.1  
-**Author**: Xotic750 <Xotic750@gmail.com>  
-**License**: [MIT](&lt;https://opensource.org/licenses/MIT&gt;)  
-**Copyright**: Xotic750  
 <a name="exp_module_has-reflect-support-x--module.exports"></a>
 
 ### `module.exports` : <code>boolean</code> ⏏
+
 Indicates if `Reflect`exists.
 `true`, if it exists and creates the correct type, otherwise `false`.
 
-**Kind**: Exported member  
+**Kind**: Exported member
