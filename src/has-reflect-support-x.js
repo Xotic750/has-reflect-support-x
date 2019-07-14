@@ -7,8 +7,6 @@
  * @module has-reflect-support-x
  */
 
-'use strict';
-
 /**
  * Indicates if `Reflect`exists.
  * `true`, if it exists and creates the correct type, otherwise `false`.
