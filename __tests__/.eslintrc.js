@@ -4,5 +4,6 @@ module.exports = {
     'no-void': 'off',
     'lodash/prefer-noop': 'off',
     'compat/compat': 'off',
+    'prefer-rest-params': 'off',
   },
 };
