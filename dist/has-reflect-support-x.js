@@ -2,13 +2,13 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2017",
-  "date": "2019-07-21T21:40:13.348Z",
+  "date": "2019-07-21T22:06:35.719Z",
   "describe": "",
   "description": "Tests if ES6 Reflect is supported.",
   "file": "has-reflect-support-x.js",
   "hash": "ad807a8c6059da73f442",
   "license": "MIT",
-  "version": "2.0.13"
+  "version": "2.0.14"
 }
 */
 (function webpackUniversalModuleDefinition(root, factory) {
