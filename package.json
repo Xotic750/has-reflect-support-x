@@ -1,6 +1,6 @@
 {
   "name": "has-reflect-support-x",
-  "version": "2.0.18",
+  "version": "2.0.19",
   "description": "Tests if ES6 Reflect is supported.",
   "homepage": "https://github.com/Xotic750/has-reflect-support-x",
   "author": {
@@ -62,7 +62,7 @@
     "@babel/plugin-transform-runtime": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
     "@babel/runtime": "^7.5.5",
-    "@prorenata/eslint-config-vue": "^1.13.11",
+    "@prorenata/eslint-config-vue": "^1.13.12",
     "@types/jest": "^24.0.15",
     "@types/node": "^12.6.8",
     "babel-core": "^7.0.0-0",
