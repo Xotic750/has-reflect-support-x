@@ -2,7 +2,7 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2017",
-  "date": "2019-08-15T17:18:12.903Z",
+  "date": "2019-08-20T08:19:20.098Z",
   "describe": "",
   "description": "Tests if ES6 Reflect is supported.",
   "file": "has-reflect-support-x.js",
